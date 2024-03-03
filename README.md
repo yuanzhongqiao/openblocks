@@ -1,88 +1,116 @@
-<div align="center">
-<h1 style="border-bottom: none">
-    <b><a href="https://openblocks.dev/">Openblocks</a></b><br />
-    The Open Source Retool Alternative
-</h1>
-<p>
-    Build internal tools fast, with no limitations
-</p>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto">
+    <b><a href="https://openblocks.dev/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Openblocks</font></font></a></b><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    开源重组替代方案
+</font></font></h1><a id="user-content-----openblocks----the-open-source-retool-alternative" class="anchor-element" aria-label="永久链接：Openblocks 开源重组替代方案
+" href="#----openblocks----the-open-source-retool-alternative"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    快速构建内部工具，没有任何限制
+</font></font></p>
 </div>
-
-<img src="/docs/.gitbook/assets/Bu2fpz1h01.gif"/>
-
-## 📢 Use Openblocks in 3 steps
-1. Connect to any data sources or APIs.
-2. Build UI with 50+ components.
-3. Share with colleagues and customers.
-## 💡 Why Openblocks
-It's cumbersome to create a single app. You had to design user interfaces, write code in multiple languages and frameworks, and understand how all of that code works together.
-
-Low-code/No-code platforms are fast to get started with but quickly become unmaintainable and inflexible. This creates more problems than it solves.
-
-Retool-like solutions are great for their simplicity and flexibility, but they can also be limited in different ways compared to frameworks like React/Vue.
-
-Openblocks wants to take a step forward. More specifically, Openblocks is
-- An all-in-one IDE to create internal or customer-facing apps.
-- A place to create, build and share building blocks of web applications.
-- A domain-specific language that UI-configurable block is the first-class citizen.
-
-## 🪄 Features
-- **Visual UI builder** with 50+ built-in components.
-- **Module and Query Library** for reusable components and queries in the UI builder.
-- **Custom components** to share through React and Openblocks SDK (instead of iFrame).
-- **Native connections** to PostgreSQL, MongoDB, MySQL, Redis, Elasticsearch, REST API, SMTP, etc.
-- **JavaScript supported everywhere** to transform data, control components, etc.
-- **Embed Openblocks pages as a React component** (instead of iFrame). [Demo](https://github.com/openblocks-dev/openblocks-sdk-demo)
-- **Role-based access control (RBAC)** for granular permission management.
-- **Auto-saved and restorable history** for release and version control.
-- **DIY app themes** to precisely align with your company's content.
-- **Audit logs** to track activities and ensure compliance.
-
-## 🏆 Comparisons
-### Openblocks vs Retool
-- Openblocks is open-source. You don't need to worry about vendor lock-in or being stuck with an outdated version of the software.
-- In Openblocks, developers can create and use their own components instead of depending on official updates.
-- Openblocks supports left menu navigation (like most sites do). Retool has header navigation only.
-### Openblocks vs Appsmith, Tooljet
-- Openblocks has more components and richer configuration than Appsmith and Tooljet.
-- In Openblocks, you can choose auto-height or fixed-height mode for your components, while Appsmith supports fixed-height mode only.
-- In Openblocks, you can reuse common structures when building apps with modules and query library features.
-
-## 👐 Support and Community
-If you have any questions, please feel free to contact us or share with our community. Our team is here ready to help.
-
-📮 Chat with us on [Discord](https://discord.com/invite/z5W2YHXdtt)
-
-📑 Search for solutions in our [Documentation](https://docs.openblocks.dev/)
-
-🔎 Submit an issue here on [GitHub](https://github.com/openblocks-dev/openblocks/issues)
-
-## 💻 Deployment Options
-You can access Openblocks from [cloud-hosted version](https://cloud.openblocks.dev/) at any time, or use the following resources for deploying Openblocks on different platforms:
-- [Docker](https://docs.openblocks.dev/self-hosting)
-- [AWS AMI](https://docs.openblocks.dev/self-hosting/aws-ami)
-- [DigitalOcean](https://docs.openblocks.dev/self-hosting/digitalocean)
-
-## 💪 Contributing
-- Language support: If you have experience with a language that isn't currently supported by our product, send us a pull request.
-- Create and share components or demos: If you've created something that might be useful to others, add the link here.
-- [Frontend contributing guide](https://github.com/openblocks-dev/openblocks/tree/develop/client)
-
-## 📝 Examples(WIP)
-- [Basic CRUD](https://cloud.openblocks.dev/apps/6374b8dbc23a1103804cc23e/view)
-- [Simple table horizontal scroll and pagination demo](https://cloud.openblocks.dev/apps/6377695dc54c5224c70e9770/view)
-- [Pagination with temporary state demo](https://cloud.openblocks.dev/apps/6379cdd9f02c6e6ecc1d37ff/view)
-- [Import third-party JS lib demo](https://cloud.openblocks.dev/apps/637a1797c54c5224c70efed3/view)
-- [JSON schema parsing using a third-party lib](https://cloud.openblocks.dev/apps/638dc95c75cfb658566143c5/view)
-- [Custom Echarts demo](https://cloud.openblocks.dev/apps/63779dd6c54c5224c70ea537/view), [Echarts source](https://echarts.apache.org/examples/en/editor.html?c=area-stack)
-- [Periodically user action report demo](https://cloud.openblocks.dev/apps/637f38daa899fe1ffcb17f0b/view)
-- [Generate PDF using jsPdf](https://cloud.openblocks.dev/apps/6388610b0a254922d92e3882/view)
-- [Excel Explorer](https://cloud.openblocks.dev/apps/6392ff5d51cd8a59114b0c2c/view)
-- [File upload with REST API](https://cloud.openblocks.dev/apps/63a2651e660ad97d59eb4a51/view)
-- [Shopping cart demo using transformers/state/drawer](https://cloud.openblocks.dev/apps/63a422a344075b798fe3ae06/view)
-- [Module demo: color picker](https://cloud.openblocks.dev/apps/63a58f1e85d4cb49cebad1d4/view)
-- [S3 File Management](https://cloud.openblocks.dev/apps/63c7aa55686c4f301cf4d755/view)
-- [Custom Markdown Style](https://cloud.openblocks.dev/apps/63c8bdb9de760726cd253c90/view)
-- [Use JS query to orchestrate other queries](https://cloud.openblocks.dev/apps/63c8fb1e0279b679be2b5a09/view)
-- [Data responder demo](https://cloud.openblocks.dev/apps/63f84d23f5f6f66102fedf81/view)
-- [Change theme by code](https://cloud.openblocks.dev/apps/63f84ca9f5f6f66102fedf3b/view)
+<p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/openblocks-dev/openblocks/blob/develop/docs/.gitbook/assets/Bu2fpz1h01.gif" data-target="animated-image.originalLink"><img src="/openblocks-dev/openblocks/raw/develop/docs/.gitbook/assets/Bu2fpz1h01.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/openblocks-dev/openblocks/blob/develop/docs/.gitbook/assets/Bu2fpz1h01.gif" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="Bu2fpz1h01.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/openblocks-dev/openblocks/raw/develop/docs/.gitbook/assets/Bu2fpz1h01.gif" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="414"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Bu2fpz1h01.gif" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Bu2fpz1h01.gif">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open Bu2fpz1h01.gif in new window" class="AnimatedImagePlayer-button" href="https://github.com/openblocks-dev/openblocks/blob/develop/docs/.gitbook/assets/Bu2fpz1h01.gif" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📢 只需 3 步即可使用 Openblocks</font></font></h2><a id="user-content--use-openblocks-in-3-steps" class="anchor-element" aria-label="永久链接：📢 三步使用 Openblocks" href="#-use-openblocks-in-3-steps"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">连接到任何数据源或 API。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 50 多个组件构建 UI。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与同事和客户分享。</font></font></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💡 为什么选择 Openblocks</font></font></h2><a id="user-content--why-openblocks" class="anchor-element" aria-label="永久链接：💡 为什么选择 Openblocks" href="#-why-openblocks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建单个应用程序很麻烦。</font><font style="vertical-align: inherit;">您必须设计用户界面，用多种语言和框架编写代码，并了解所有这些代码如何协同工作。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">低代码/无代码平台上手速度很快，但很快就会变得难以维护且不灵活。</font><font style="vertical-align: inherit;">这产生的问题多于它解决的问题。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">类似 Retool 的解决方案因其简单性和灵活性而非常出色，但与 React/Vue 等框架相比，它们也可能受到不同方式的限制。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Openblocks 想要向前迈出一步。</font><font style="vertical-align: inherit;">更具体地说，Openblocks 是</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一款用于创建内部或面向客户的应用程序的一体化 IDE。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建、构建和共享 Web 应用程序构建块的地方。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UI 可配置块是领域特定语言的一等公民。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🪄特点</font></font></h2><a id="user-content--features" class="anchor-element" aria-label="永久链接：🪄特点" href="#-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">具有 50 多个内置组件的</font><strong><font style="vertical-align: inherit;">可视化 UI 构建器。</font></strong></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UI 构建器中可重用组件和查询的</font><strong><font style="vertical-align: inherit;">模块和查询库。</font></strong></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过 React 和 Openblocks SDK（而不是 iFrame）共享</font><strong><font style="vertical-align: inherit;">自定义组件。</font></strong></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与 PostgreSQL、MongoDB、MySQL、Redis、Elasticsearch、REST API、SMTP 等的</font><strong><font style="vertical-align: inherit;">本机连接。</font></strong></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">到处都支持 JavaScript</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来转换数据、控制组件等。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将 Openblocks 页面嵌入为 React 组件</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（而不是 iFrame）。</font></font><a href="https://github.com/openblocks-dev/openblocks-sdk-demo"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">演示</font></font></a></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基于角色的访问控制 (RBAC)，</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于精细的权限管理。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动保存和可恢复的</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发布和版本控制历史记录。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DIY 应用程序主题</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可与您公司的内容精确匹配。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">审核日志</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以跟踪活动并确保合规性。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏆 比较</font></font></h2><a id="user-content--comparisons" class="anchor-element" aria-label="永久链接：🏆 比较" href="#-comparisons"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Openblocks 与 Retool</font></font></h3><a id="user-content-openblocks-vs-retool" class="anchor-element" aria-label="永久链接：Openblocks 与 Retool" href="#openblocks-vs-retool"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Openblocks 是开源的。</font><font style="vertical-align: inherit;">您无需担心供应商锁定或受制于过时的软件版本。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在Openblocks中，开发者可以创建和使用自己的组件，而不是依赖官方更新。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Openblocks 支持左侧菜单导航（就像大多数网站一样）。</font><font style="vertical-align: inherit;">Retool 仅具有标题导航。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Openblocks 与 Appsmith、Tooljet</font></font></h3><a id="user-content-openblocks-vs-appsmith-tooljet" class="anchor-element" aria-label="永久链接：Openblocks 与 Appsmith、Tooljet" href="#openblocks-vs-appsmith-tooljet"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Openblocks 比 Appsmith 和 Tooljet 有更多的组件和更丰富的配置。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Openblocks 中，您可以为组件选择自动高度或固定高度模式，而 Appsmith 仅支持固定高度模式。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Openblocks 中，您可以在使用模块和查询库功能构建应用程序时重用通用结构。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👐 支持和社区</font></font></h2><a id="user-content--support-and-community" class="anchor-element" aria-label="永久链接：👐 支持和社区" href="#-support-and-community"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您有任何疑问，请随时与我们联系或与我们的社区分享。</font><font style="vertical-align: inherit;">我们的团队随时准备为您提供帮助。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><a href="https://discord.com/invite/z5W2YHXdtt" rel="nofollow"><font style="vertical-align: inherit;">📮 在Discord</font></a><font style="vertical-align: inherit;">上与我们聊天</font></font><a href="https://discord.com/invite/z5W2YHXdtt" rel="nofollow"><font style="vertical-align: inherit;"></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><a href="https://docs.openblocks.dev/" rel="nofollow"><font style="vertical-align: inherit;">📑 在我们的文档</font></a><font style="vertical-align: inherit;">中搜索解决方案</font></font><a href="https://docs.openblocks.dev/" rel="nofollow"><font style="vertical-align: inherit;"></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><a href="https://github.com/openblocks-dev/openblocks/issues"><font style="vertical-align: inherit;">🔎 在GitHub</font></a><font style="vertical-align: inherit;">上提交问题</font></font><a href="https://github.com/openblocks-dev/openblocks/issues"><font style="vertical-align: inherit;"></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻 部署选项</font></font></h2><a id="user-content--deployment-options" class="anchor-element" aria-label="永久链接：💻 部署选项" href="#-deployment-options"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以随时从</font></font><a href="https://cloud.openblocks.dev/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">云托管版本</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">访问 Openblocks ，或使用以下资源在不同平台上部署 Openblocks：</font></font></p>
+<ul dir="auto">
+<li><a href="https://docs.openblocks.dev/self-hosting" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">码头工人</font></font></a></li>
+<li><a href="https://docs.openblocks.dev/self-hosting/aws-ami" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AWS AMI</font></font></a></li>
+<li><a href="https://docs.openblocks.dev/self-hosting/digitalocean" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字海洋</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💪 贡献</font></font></h2><a id="user-content--contributing" class="anchor-element" aria-label="永久链接： 💪 贡献" href="#-contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">语言支持：如果您使用过我们的产品当前不支持的语言，请向我们发送拉取请求。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建和共享组件或演示：如果您创建的内容可能对其他人有用，请在此处添加链接。</font></font></li>
+<li><a href="https://github.com/openblocks-dev/openblocks/tree/develop/client"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">前端贡献指南</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📝 示例（WIP）</font></font></h2><a id="user-content--exampleswip" class="anchor-element" aria-label="永久链接：📝 示例（WIP）" href="#-exampleswip"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://cloud.openblocks.dev/apps/6374b8dbc23a1103804cc23e/view" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基本增删改查</font></font></a></li>
+<li><a href="https://cloud.openblocks.dev/apps/6377695dc54c5224c70e9770/view" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">简单的表格水平滚动和分页演示</font></font></a></li>
+<li><a href="https://cloud.openblocks.dev/apps/6379cdd9f02c6e6ecc1d37ff/view" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">带有临时状态演示的分页</font></font></a></li>
+<li><a href="https://cloud.openblocks.dev/apps/637a1797c54c5224c70efed3/view" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">导入第三方JS lib demo</font></font></a></li>
+<li><a href="https://cloud.openblocks.dev/apps/638dc95c75cfb658566143c5/view" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用第三方库进行 JSON 模式解析</font></font></a></li>
+<li><a href="https://cloud.openblocks.dev/apps/63779dd6c54c5224c70ea537/view" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自定义Echarts演示</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，</font></font><a href="https://echarts.apache.org/examples/en/editor.html?c=area-stack" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Echarts源码</font></font></a></li>
+<li><a href="https://cloud.openblocks.dev/apps/637f38daa899fe1ffcb17f0b/view" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">定期用户操作报告演示</font></font></a></li>
+<li><a href="https://cloud.openblocks.dev/apps/6388610b0a254922d92e3882/view" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 jsPdf 生成 PDF</font></font></a></li>
+<li><a href="https://cloud.openblocks.dev/apps/6392ff5d51cd8a59114b0c2c/view" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Excel 资源管理器</font></font></a></li>
+<li><a href="https://cloud.openblocks.dev/apps/63a2651e660ad97d59eb4a51/view" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 REST API 上传文件</font></font></a></li>
+<li><a href="https://cloud.openblocks.dev/apps/63a422a344075b798fe3ae06/view" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用变压器/状态/抽屉的购物车演示</font></font></a></li>
+<li><a href="https://cloud.openblocks.dev/apps/63a58f1e85d4cb49cebad1d4/view" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模块演示：颜色选择器</font></font></a></li>
+<li><a href="https://cloud.openblocks.dev/apps/63c7aa55686c4f301cf4d755/view" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">S3文件管理</font></font></a></li>
+<li><a href="https://cloud.openblocks.dev/apps/63c8bdb9de760726cd253c90/view" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自定义 Markdown 样式</font></font></a></li>
+<li><a href="https://cloud.openblocks.dev/apps/63c8fb1e0279b679be2b5a09/view" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用JS查询来编排其他查询</font></font></a></li>
+<li><a href="https://cloud.openblocks.dev/apps/63f84d23f5f6f66102fedf81/view" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据响应器演示</font></font></a></li>
+<li><a href="https://cloud.openblocks.dev/apps/63f84ca9f5f6f66102fedf3b/view" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过代码更改主题</font></font></a></li>
+</ul>
+</article></div>
